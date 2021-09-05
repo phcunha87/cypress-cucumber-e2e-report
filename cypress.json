@@ -1,0 +1,6 @@
+{
+
+    "testFiles": "**/*.feature",
+    "baseUrl":"http://demo.automationtesting.in/Register.html"
+
+}
