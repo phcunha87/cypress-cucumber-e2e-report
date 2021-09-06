@@ -1,0 +1,619 @@
+[
+  {
+    "description": "    Eu como usuário, quero realizar meu cadastro de modo que possa usufruir dos meus acessos",
+    "keyword": "Funcionalidade",
+    "name": "Realizar cadastro",
+    "line": 3,
+    "id": "realizar-cadastro",
+    "tags": [],
+    "uri": "e2e.feature",
+    "elements": [
+      {
+        "id": "realizar-cadastro;deve-realizar-o-cadastro",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Deve realizar o cadastro",
+        "tags": [
+          {
+            "name": "@cadastro1",
+            "line": 6
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 8,
+            "name": "que acesso a pagina de cadastro",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 9,
+            "name": "preencho nome e sobrenome",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 10,
+            "name": "preencho endereço",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 11,
+            "name": "e-mail",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 12,
+            "name": "preencho numero de telefone",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 13,
+            "name": "escolho o genero",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 14,
+            "name": "meus hobbies",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 15,
+            "name": "seleciono idioma",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 16,
+            "name": "seleciono minhas habilidades",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 17,
+            "name": "seleciono meu país",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 18,
+            "name": "informo minha data de nascimento",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 19,
+            "name": "escolho minha senha",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 20,
+            "name": "confirmo minha senha",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 21,
+            "name": "clico no botão enviar",
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      },
+      {
+        "id": "realizar-cadastro;deve-realizar-multiplos-cadastros",
+        "keyword": "Scenario",
+        "line": 42,
+        "name": "Deve realizar multiplos cadastros",
+        "tags": [
+          {
+            "name": "@focus",
+            "line": 23
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 25,
+            "name": "que acesso a pagina de cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 3351000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 26,
+            "name": "preencho \"Automação\" e \"cypress\"",
+            "result": {
+              "status": "passed",
+              "duration": 692000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 27,
+            "name": "preencho endereco \"Rua Columbia\"",
+            "result": {
+              "status": "passed",
+              "duration": 410000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 28,
+            "name": "o email \"testes@qualityassurance.com.br\"",
+            "result": {
+              "status": "passed",
+              "duration": 606000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 29,
+            "name": "preencho numero de telefone \"5599995555\"",
+            "result": {
+              "status": "passed",
+              "duration": 320000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 30,
+            "name": "escolho o genero",
+            "result": {
+              "status": "passed",
+              "duration": 135000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 31,
+            "name": "meus hobbies",
+            "result": {
+              "status": "passed",
+              "duration": 433000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 32,
+            "name": "seleciono idioma",
+            "result": {
+              "status": "passed",
+              "duration": 264000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 33,
+            "name": "seleciono minhas habilidades",
+            "result": {
+              "status": "passed",
+              "duration": 155000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 34,
+            "name": "seleciono meu país",
+            "result": {
+              "status": "passed",
+              "duration": 206000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 35,
+            "name": "informo minha data de nascimento",
+            "result": {
+              "status": "passed",
+              "duration": 622000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 36,
+            "name": "escolho minha senha",
+            "result": {
+              "status": "passed",
+              "duration": 311000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 37,
+            "name": "confirmo minha senha",
+            "result": {
+              "status": "passed",
+              "duration": 337000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 38,
+            "name": "clico no botão enviar",
+            "result": {
+              "status": "passed",
+              "duration": 187000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "realizar-cadastro;deve-realizar-multiplos-cadastros",
+        "keyword": "Scenario",
+        "line": 43,
+        "name": "Deve realizar multiplos cadastros",
+        "tags": [
+          {
+            "name": "@focus",
+            "line": 23
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 25,
+            "name": "que acesso a pagina de cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 2668000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 26,
+            "name": "preencho \"QA testes\" e \"Javascript\"",
+            "result": {
+              "status": "passed",
+              "duration": 811000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 27,
+            "name": "preencho endereco \"Rua Ao lado\"",
+            "result": {
+              "status": "passed",
+              "duration": 360000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 28,
+            "name": "o email \"testes@qa.com.br\"",
+            "result": {
+              "status": "passed",
+              "duration": 394000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 29,
+            "name": "preencho numero de telefone \"5599994444\"",
+            "result": {
+              "status": "passed",
+              "duration": 333000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 30,
+            "name": "escolho o genero",
+            "result": {
+              "status": "passed",
+              "duration": 133000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 31,
+            "name": "meus hobbies",
+            "result": {
+              "status": "passed",
+              "duration": 409000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 32,
+            "name": "seleciono idioma",
+            "result": {
+              "status": "passed",
+              "duration": 284000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 33,
+            "name": "seleciono minhas habilidades",
+            "result": {
+              "status": "passed",
+              "duration": 191000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 34,
+            "name": "seleciono meu país",
+            "result": {
+              "status": "passed",
+              "duration": 257000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 35,
+            "name": "informo minha data de nascimento",
+            "result": {
+              "status": "passed",
+              "duration": 630000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 36,
+            "name": "escolho minha senha",
+            "result": {
+              "status": "passed",
+              "duration": 323000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 37,
+            "name": "confirmo minha senha",
+            "result": {
+              "status": "passed",
+              "duration": 319000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 38,
+            "name": "clico no botão enviar",
+            "result": {
+              "status": "passed",
+              "duration": 191000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "realizar-cadastro;deve-realizar-multiplos-cadastros",
+        "keyword": "Scenario",
+        "line": 44,
+        "name": "Deve realizar multiplos cadastros",
+        "tags": [
+          {
+            "name": "@focus",
+            "line": 23
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 25,
+            "name": "que acesso a pagina de cadastro",
+            "result": {
+              "status": "passed",
+              "duration": 2741000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 26,
+            "name": "preencho \"Qualidade\" e \"Testes\"",
+            "result": {
+              "status": "passed",
+              "duration": 622000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 27,
+            "name": "preencho endereco \"Rua Mais um\"",
+            "result": {
+              "status": "passed",
+              "duration": 389000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 28,
+            "name": "o email \"qa@qa.com.br\"",
+            "result": {
+              "status": "passed",
+              "duration": 355000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 29,
+            "name": "preencho numero de telefone \"5599993333\"",
+            "result": {
+              "status": "passed",
+              "duration": 338000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 30,
+            "name": "escolho o genero",
+            "result": {
+              "status": "passed",
+              "duration": 144000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 31,
+            "name": "meus hobbies",
+            "result": {
+              "status": "passed",
+              "duration": 442000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 32,
+            "name": "seleciono idioma",
+            "result": {
+              "status": "passed",
+              "duration": 262000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 33,
+            "name": "seleciono minhas habilidades",
+            "result": {
+              "status": "passed",
+              "duration": 152000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 34,
+            "name": "seleciono meu país",
+            "result": {
+              "status": "passed",
+              "duration": 198000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 35,
+            "name": "informo minha data de nascimento",
+            "result": {
+              "status": "passed",
+              "duration": 604000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 36,
+            "name": "escolho minha senha",
+            "result": {
+              "status": "passed",
+              "duration": 314000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 37,
+            "name": "confirmo minha senha",
+            "result": {
+              "status": "passed",
+              "duration": 317000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 38,
+            "name": "clico no botão enviar",
+            "result": {
+              "status": "passed",
+              "duration": 213000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

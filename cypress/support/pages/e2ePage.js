@@ -48,7 +48,7 @@ class e2ePage{
 
     preencherDataNascimento(ano, mes, dia){
         cy.get(locators.DATA_NASCIMENTO.SELECT_ANO).select(ano)
-	    cy.xpath(locators.DATA_NASCIMENTO.XP_MES).select(mes)
+	    cy.xpath(locators.DATA_NASCIMENTO.XP_SELECT_MES).select(mes)
 	    cy.get(locators.DATA_NASCIMENTO.SELECT_DIA).select(dia)
     }
 

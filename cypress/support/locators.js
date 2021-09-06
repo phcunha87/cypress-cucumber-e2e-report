@@ -34,7 +34,7 @@ const locators = {
     },
     DATA_NASCIMENTO:{
         SELECT_ANO: '#yearbox',
-        XP_MES:"//select[contains(@placeholder,'Month')]",
+        XP_SELECT_MES:"//select[contains(@placeholder,'Month')]",
         SELECT_DIA:'#daybox'
     },
     SENHA: {

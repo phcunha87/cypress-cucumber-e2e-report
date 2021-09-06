@@ -20,7 +20,7 @@ When(/^preencho endereço$/, () => {
 });
 
 When(/^preencho numero de telefone$/, () => {
-	elementsPage.preencheNumeroTelefone('5599995555')
+	elementsPage.preencheNumeroTelefone('5599997777')
 });
 
 When(/^e-mail$/, () => {
@@ -67,6 +67,31 @@ When(/^confirmo minha senha$/, () => {
 Then(/^clico no botão enviar$/, () => {
 	elementsPage.botaoEnviar()
 });
+
+//começa aqui os testes multiplos
+
+When(/^preencho "([^"]*)" e "([^"]*)"$/, (nome,sobrenome) => {
+	elementsPage.preencheOprimeiroNome(nome)
+	elementsPage.preencheOultimoNome(sobrenome)
+	
+});
+
+
+When(/^preencho endereco "([^"]*)"$/, (endereco) => {
+	elementsPage.preencheEndereco(endereco)
+});
+
+When(/^o email "([^"]*)"$/, (email) => {
+	elementsPage.preencheEmail(email)
+});
+
+Then(/^preencho numero de telefone "([^"]*)"$/, (telefone) => {
+	elementsPage.preencheNumeroTelefone(telefone)
+});
+
+
+
+
 
 
 
