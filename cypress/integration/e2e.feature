@@ -3,7 +3,7 @@
 Funcionalidade: Realizar cadastro
 
     Eu como usuário, quero realizar meu cadastro de modo que possa usufruir dos meus acessos
-@cadastro1
+@cadastro
 Cenario: Deve realizar o cadastro
 Dado que acesso a pagina de cadastro
 Quando preencho nome e sobrenome
