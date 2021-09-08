@@ -1,0 +1,213 @@
+[
+  {
+    "description": "Como usuario, desejo cadastrar, \neditar, deletar e listar Bebidas",
+    "keyword": "Funcionalidade",
+    "name": "Bebidas",
+    "line": 3,
+    "id": "bebidas",
+    "tags": [],
+    "uri": "bebidas.feature",
+    "elements": [
+      {
+        "id": "bebidas;deve-cadastrar-bebida",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "Deve cadastrar bebida",
+        "tags": [
+          {
+            "name": "@bebidas",
+            "line": 12
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 10,
+            "name": "endpoint",
+            "result": {
+              "status": "passed",
+              "duration": 521000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 14,
+            "name": "envio a requisicao cadastrar a bebida",
+            "result": {
+              "status": "passed",
+              "duration": 33000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 15,
+            "name": "recebo o status 201",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 16,
+            "name": "valido os dados de retorno da bebida cadastrada",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "bebidas;deve-listar-bebida",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "Deve listar bebida",
+        "tags": [
+          {
+            "name": "@bebidas",
+            "line": 18
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 10,
+            "name": "endpoint",
+            "result": {
+              "status": "passed",
+              "duration": 43000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 20,
+            "name": "envio a requisicao para listar a bebida",
+            "result": {
+              "status": "passed",
+              "duration": 14000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 21,
+            "name": "recebo o status 200",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "bebidas;deve-editar-bebida",
+        "keyword": "Scenario",
+        "line": 24,
+        "name": "Deve editar bebida",
+        "tags": [
+          {
+            "name": "@bebidas",
+            "line": 23
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 10,
+            "name": "endpoint",
+            "result": {
+              "status": "passed",
+              "duration": 35000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 25,
+            "name": "envio a requisicao para editar a bebida",
+            "result": {
+              "status": "passed",
+              "duration": 34000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 26,
+            "name": "recebo o status 200",
+            "result": {
+              "status": "passed",
+              "duration": 8000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 27,
+            "name": "validos os dados de retorno",
+            "result": {
+              "status": "passed",
+              "duration": 19000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "bebidas;deve-excluir-bebida",
+        "keyword": "Scenario",
+        "line": 30,
+        "name": "Deve excluir bebida",
+        "tags": [
+          {
+            "name": "@bebidas",
+            "line": 29
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 10,
+            "name": "endpoint",
+            "result": {
+              "status": "passed",
+              "duration": 43000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 31,
+            "name": "envio a requisicao para excluir a bebida",
+            "result": {
+              "status": "passed",
+              "duration": 32000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 32,
+            "name": "recebo o status 204",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

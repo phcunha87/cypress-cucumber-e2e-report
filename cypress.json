@@ -1,6 +1,5 @@
 {
-
-    "testFiles": "**/*.feature",
-    "baseUrl":"http://demo.automationtesting.in/Register.html"
-
+  "testFiles": "**/*.feature",
+  "baseUrl": "http://demo.automationtesting.in/Register.html",
+  "projectId": "g9zsgj"
 }

@@ -24,7 +24,9 @@ const locators = {
     },
     IDIOMAS: {
         LINGUA:'#msdd',
-        PORTUGUES: '.ui-autocomplete > :nth-child(29)'
+        PORTUGUES: '.ui-autocomplete > :nth-child(29)',
+        ITALIANO:'.ui-autocomplete > :nth-child(20)',
+        ESPANHOL:'.ui-autocomplete > :nth-child(35)',
     },
     HABILIDADE:{
         SELECT:'#Skills'

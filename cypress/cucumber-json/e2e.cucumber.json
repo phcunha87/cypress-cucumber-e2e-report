@@ -15,7 +15,7 @@
         "name": "Deve realizar o cadastro",
         "tags": [
           {
-            "name": "@cadastro1",
+            "name": "@cadastro",
             "line": 6
           }
         ],
@@ -169,7 +169,7 @@
             "name": "que acesso a pagina de cadastro",
             "result": {
               "status": "passed",
-              "duration": 3351000000
+              "duration": 6413000000
             }
           },
           {
@@ -179,7 +179,7 @@
             "name": "preencho \"Automação\" e \"cypress\"",
             "result": {
               "status": "passed",
-              "duration": 692000000
+              "duration": 702000000
             }
           },
           {
@@ -189,7 +189,7 @@
             "name": "preencho endereco \"Rua Columbia\"",
             "result": {
               "status": "passed",
-              "duration": 410000000
+              "duration": 572000000
             }
           },
           {
@@ -199,7 +199,7 @@
             "name": "o email \"testes@qualityassurance.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 606000000
+              "duration": 682000000
             }
           },
           {
@@ -209,7 +209,7 @@
             "name": "preencho numero de telefone \"5599995555\"",
             "result": {
               "status": "passed",
-              "duration": 320000000
+              "duration": 364000000
             }
           },
           {
@@ -219,7 +219,7 @@
             "name": "escolho o genero",
             "result": {
               "status": "passed",
-              "duration": 135000000
+              "duration": 148000000
             }
           },
           {
@@ -229,7 +229,7 @@
             "name": "meus hobbies",
             "result": {
               "status": "passed",
-              "duration": 433000000
+              "duration": 482000000
             }
           },
           {
@@ -239,7 +239,7 @@
             "name": "seleciono idioma",
             "result": {
               "status": "passed",
-              "duration": 264000000
+              "duration": 706000000
             }
           },
           {
@@ -249,7 +249,7 @@
             "name": "seleciono minhas habilidades",
             "result": {
               "status": "passed",
-              "duration": 155000000
+              "duration": 180000000
             }
           },
           {
@@ -259,7 +259,7 @@
             "name": "seleciono meu país",
             "result": {
               "status": "passed",
-              "duration": 206000000
+              "duration": 260000000
             }
           },
           {
@@ -269,7 +269,7 @@
             "name": "informo minha data de nascimento",
             "result": {
               "status": "passed",
-              "duration": 622000000
+              "duration": 739000000
             }
           },
           {
@@ -279,7 +279,7 @@
             "name": "escolho minha senha",
             "result": {
               "status": "passed",
-              "duration": 311000000
+              "duration": 387000000
             }
           },
           {
@@ -289,7 +289,7 @@
             "name": "confirmo minha senha",
             "result": {
               "status": "passed",
-              "duration": 337000000
+              "duration": 411000000
             }
           },
           {
@@ -299,7 +299,7 @@
             "name": "clico no botão enviar",
             "result": {
               "status": "passed",
-              "duration": 187000000
+              "duration": 290000000
             }
           }
         ]
@@ -324,7 +324,7 @@
             "name": "que acesso a pagina de cadastro",
             "result": {
               "status": "passed",
-              "duration": 2668000000
+              "duration": 4355000000
             }
           },
           {
@@ -334,7 +334,7 @@
             "name": "preencho \"QA testes\" e \"Javascript\"",
             "result": {
               "status": "passed",
-              "duration": 811000000
+              "duration": 782000000
             }
           },
           {
@@ -344,7 +344,7 @@
             "name": "preencho endereco \"Rua Ao lado\"",
             "result": {
               "status": "passed",
-              "duration": 360000000
+              "duration": 599000000
             }
           },
           {
@@ -354,7 +354,7 @@
             "name": "o email \"testes@qa.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 394000000
+              "duration": 476000000
             }
           },
           {
@@ -364,7 +364,7 @@
             "name": "preencho numero de telefone \"5599994444\"",
             "result": {
               "status": "passed",
-              "duration": 333000000
+              "duration": 351000000
             }
           },
           {
@@ -374,7 +374,7 @@
             "name": "escolho o genero",
             "result": {
               "status": "passed",
-              "duration": 133000000
+              "duration": 173000000
             }
           },
           {
@@ -384,7 +384,7 @@
             "name": "meus hobbies",
             "result": {
               "status": "passed",
-              "duration": 409000000
+              "duration": 489000000
             }
           },
           {
@@ -394,7 +394,7 @@
             "name": "seleciono idioma",
             "result": {
               "status": "passed",
-              "duration": 284000000
+              "duration": 685000000
             }
           },
           {
@@ -404,7 +404,7 @@
             "name": "seleciono minhas habilidades",
             "result": {
               "status": "passed",
-              "duration": 191000000
+              "duration": 192000000
             }
           },
           {
@@ -414,7 +414,7 @@
             "name": "seleciono meu país",
             "result": {
               "status": "passed",
-              "duration": 257000000
+              "duration": 273000000
             }
           },
           {
@@ -424,7 +424,7 @@
             "name": "informo minha data de nascimento",
             "result": {
               "status": "passed",
-              "duration": 630000000
+              "duration": 750000000
             }
           },
           {
@@ -434,7 +434,7 @@
             "name": "escolho minha senha",
             "result": {
               "status": "passed",
-              "duration": 323000000
+              "duration": 419000000
             }
           },
           {
@@ -444,7 +444,7 @@
             "name": "confirmo minha senha",
             "result": {
               "status": "passed",
-              "duration": 319000000
+              "duration": 400000000
             }
           },
           {
@@ -454,7 +454,7 @@
             "name": "clico no botão enviar",
             "result": {
               "status": "passed",
-              "duration": 191000000
+              "duration": 285000000
             }
           }
         ]
@@ -479,7 +479,7 @@
             "name": "que acesso a pagina de cadastro",
             "result": {
               "status": "passed",
-              "duration": 2741000000
+              "duration": 7226000000
             }
           },
           {
@@ -489,7 +489,7 @@
             "name": "preencho \"Qualidade\" e \"Testes\"",
             "result": {
               "status": "passed",
-              "duration": 622000000
+              "duration": 838000000
             }
           },
           {
@@ -499,7 +499,7 @@
             "name": "preencho endereco \"Rua Mais um\"",
             "result": {
               "status": "passed",
-              "duration": 389000000
+              "duration": 364000000
             }
           },
           {
@@ -509,7 +509,7 @@
             "name": "o email \"qa@qa.com.br\"",
             "result": {
               "status": "passed",
-              "duration": 355000000
+              "duration": 431000000
             }
           },
           {
@@ -519,7 +519,7 @@
             "name": "preencho numero de telefone \"5599993333\"",
             "result": {
               "status": "passed",
-              "duration": 338000000
+              "duration": 335000000
             }
           },
           {
@@ -529,7 +529,7 @@
             "name": "escolho o genero",
             "result": {
               "status": "passed",
-              "duration": 144000000
+              "duration": 174000000
             }
           },
           {
@@ -539,7 +539,7 @@
             "name": "meus hobbies",
             "result": {
               "status": "passed",
-              "duration": 442000000
+              "duration": 475000000
             }
           },
           {
@@ -549,7 +549,7 @@
             "name": "seleciono idioma",
             "result": {
               "status": "passed",
-              "duration": 262000000
+              "duration": 749000000
             }
           },
           {
@@ -559,7 +559,7 @@
             "name": "seleciono minhas habilidades",
             "result": {
               "status": "passed",
-              "duration": 152000000
+              "duration": 182000000
             }
           },
           {
@@ -569,7 +569,7 @@
             "name": "seleciono meu país",
             "result": {
               "status": "passed",
-              "duration": 198000000
+              "duration": 266000000
             }
           },
           {
@@ -579,7 +579,7 @@
             "name": "informo minha data de nascimento",
             "result": {
               "status": "passed",
-              "duration": 604000000
+              "duration": 718000000
             }
           },
           {
@@ -589,7 +589,7 @@
             "name": "escolho minha senha",
             "result": {
               "status": "passed",
-              "duration": 314000000
+              "duration": 386000000
             }
           },
           {
@@ -599,7 +599,7 @@
             "name": "confirmo minha senha",
             "result": {
               "status": "passed",
-              "duration": 317000000
+              "duration": 412000000
             }
           },
           {
@@ -609,7 +609,7 @@
             "name": "clico no botão enviar",
             "result": {
               "status": "passed",
-              "duration": 213000000
+              "duration": 285000000
             }
           }
         ]

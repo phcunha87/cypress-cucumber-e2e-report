@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "cy:report": "node ./cypress/report.js",
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "cy:headless" : "cypress run --browser chrome --headless",
+    "cy:cli":"npx cypress run --record --key 47679838-964a-4890-9331-455ea4d90338"
+    
   },
   "keywords": [],
   "author": "",

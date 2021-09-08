@@ -36,6 +36,8 @@ class e2ePage{
     selecionarIdioma(){
         cy.get(locators.IDIOMAS.LINGUA).click()
 	    cy.get(locators.IDIOMAS.PORTUGUES).click()
+        cy.get(locators.IDIOMAS.ITALIANO).click()
+        cy.get(locators.IDIOMAS.ESPANHOL).click()
     }
 
     selecionarHabilidade(habilidade){
