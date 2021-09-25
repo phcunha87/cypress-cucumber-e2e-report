@@ -3,7 +3,7 @@ pipeline{
         stages {
             stage('Just Test') {
                 steps {
-                    bat 'mpm run test'
+                    bat 'npm run test'
                 }
             }
         }
