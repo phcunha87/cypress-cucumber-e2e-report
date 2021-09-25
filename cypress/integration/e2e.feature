@@ -20,7 +20,7 @@ E escolho minha senha
 E confirmo minha senha
 Entao clico no botão enviar
 
-@focus
+@cadastro
 Esquema do Cenario: Deve realizar multiplos cadastros
 Dado que acesso a pagina de cadastro
 Quando preencho "<nome>" e "<sobrenome>"

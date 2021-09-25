@@ -1,0 +1,51 @@
+[
+  {
+    "description": "Testes automatizados",
+    "keyword": "Funcionalidade",
+    "name": "QA",
+    "line": 3,
+    "id": "qa",
+    "tags": [],
+    "uri": "testes.feature",
+    "elements": [
+      {
+        "id": "qa;teses",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Teses",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 8,
+            "name": "que faço isso",
+            "result": {
+              "status": "undefined",
+              "duration": 390000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 9,
+            "name": "faço aquilo",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 10,
+            "name": "pronto",
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

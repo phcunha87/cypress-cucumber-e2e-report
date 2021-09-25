@@ -57,8 +57,9 @@ Then(/^recebo o status 200$/, () => {
 
 When(/^envio a requisicao para editar a bebida$/, () => {
 	cy.request({
-		url :url,
 		method: 'GET',
+		url :url ,
+		
 		qs:{
 			nome:'Cerveja da boa'
 		}

@@ -28,7 +28,7 @@
             "name": "endpoint",
             "result": {
               "status": "passed",
-              "duration": 521000000
+              "duration": 352000000
             }
           },
           {
@@ -38,7 +38,7 @@
             "name": "envio a requisicao cadastrar a bebida",
             "result": {
               "status": "passed",
-              "duration": 33000000
+              "duration": 49000000
             }
           },
           {
@@ -48,7 +48,7 @@
             "name": "recebo o status 201",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 13000000
             }
           },
           {
@@ -58,7 +58,7 @@
             "name": "valido os dados de retorno da bebida cadastrada",
             "result": {
               "status": "passed",
-              "duration": 16000000
+              "duration": 21000000
             }
           }
         ]
@@ -83,7 +83,7 @@
             "name": "endpoint",
             "result": {
               "status": "passed",
-              "duration": 43000000
+              "duration": 53000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "envio a requisicao para listar a bebida",
             "result": {
               "status": "passed",
-              "duration": 14000000
+              "duration": 21000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "recebo o status 200",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 8000000
             }
           }
         ]
@@ -128,7 +128,7 @@
             "name": "endpoint",
             "result": {
               "status": "passed",
-              "duration": 35000000
+              "duration": 61000000
             }
           },
           {
@@ -138,7 +138,7 @@
             "name": "envio a requisicao para editar a bebida",
             "result": {
               "status": "passed",
-              "duration": 34000000
+              "duration": 124000000
             }
           },
           {
@@ -148,7 +148,7 @@
             "name": "recebo o status 200",
             "result": {
               "status": "passed",
-              "duration": 8000000
+              "duration": 18000000
             }
           },
           {
@@ -158,7 +158,7 @@
             "name": "validos os dados de retorno",
             "result": {
               "status": "passed",
-              "duration": 19000000
+              "duration": 44000000
             }
           }
         ]
@@ -183,7 +183,7 @@
             "name": "endpoint",
             "result": {
               "status": "passed",
-              "duration": 43000000
+              "duration": 63000000
             }
           },
           {
@@ -193,7 +193,7 @@
             "name": "envio a requisicao para excluir a bebida",
             "result": {
               "status": "passed",
-              "duration": 32000000
+              "duration": 97000000
             }
           },
           {
@@ -203,7 +203,7 @@
             "name": "recebo o status 204",
             "result": {
               "status": "passed",
-              "duration": 9000000
+              "duration": 8000000
             }
           }
         ]
