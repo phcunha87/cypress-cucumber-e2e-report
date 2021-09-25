@@ -3,7 +3,7 @@ pipeline{
         stages {
             stage('Just Test') {
                 steps {
-                    bat 'cypress run cypress/integration/'
+                    bat 'mpm run test'
                 }
             }
         }
