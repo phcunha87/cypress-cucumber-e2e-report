@@ -7,4 +7,10 @@ pipeline{
                 }
             }
         }
+        stage ('ALURE REPORT') {
+            steps {
+                allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
+            }
+        }
+
 }
