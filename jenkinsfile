@@ -4,7 +4,6 @@ pipeline{
             stage('Just Test') {
                 steps {
                     bat 'npm run test'
-                    bat 'npm run cy:report'
                 }
             }
         }
