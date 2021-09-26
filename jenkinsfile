@@ -6,11 +6,15 @@ pipeline{
                     bat 'npm run test'
                 }
             }
-        }
-        stage ('ALURE REPORT') {
-            steps {
-                allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
-            }
+            stage ('ALLURE REPORT') {
+                 steps {
+                    allure includeProperties: false, jdk: '', results: [[path: 'target/surefire-reports']]
+                
+                }
+            }   
+            
+
         }
 
-}
+}    
+
